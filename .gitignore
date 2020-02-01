@@ -14,3 +14,4 @@ Content/StarterContent
 *.xcodeproj
 *.xcworkspace
 **_BuiltData.uasset
+Build
